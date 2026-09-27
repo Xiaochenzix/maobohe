@@ -14,3 +14,5 @@ data/
 !assets/runtime/*.dll
 .venv/
 venv/
+assets/models/
+assets/runtime/
