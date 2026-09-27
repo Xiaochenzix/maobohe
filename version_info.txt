@@ -1,0 +1,14 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(2,3,3,0), prodvers=(2,3,3,0), mask=0x3f,
+                    flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+  kids=[StringFileInfo([StringTable('080404B0', [
+    StringStruct('CompanyName', '某不知名人士'),
+    StringStruct('FileDescription', '猫薄荷 · 桌宠、便签与提醒'),
+    StringStruct('FileVersion', '2.3.3'),
+    StringStruct('InternalName', 'Maobohe'),
+    StringStruct('OriginalFilename', '猫薄荷.exe'),
+    StringStruct('ProductName', '猫薄荷'),
+    StringStruct('ProductVersion', '2.3.3'),
+    StringStruct('LegalCopyright', '作者：某不知名人士')
+  ])]), VarFileInfo([VarStruct('Translation', [2052,1200])])]
+)

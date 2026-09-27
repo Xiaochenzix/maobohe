@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.qa/
+build/
+dist/
+data/
+*.sqlite3
+*.db
+*.log
+*.zip
+*.7z
+*.exe
+!assets/runtime/*.dll
+.venv/
+venv/
